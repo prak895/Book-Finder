@@ -1,0 +1,19 @@
+{
+  "name": "bookfinder",
+  "version": "1.0.0",
+  "description": "making book SE",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "shuvam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "npm": "^8.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
